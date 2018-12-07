@@ -1,4 +1,4 @@
-# Elo Merchant Category Recommendation Competition
+## Elo Merchant Category Recommendation Competition
 ---
 Current Top 2% solution
 
